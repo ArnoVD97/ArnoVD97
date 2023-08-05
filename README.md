@@ -1,18 +1,14 @@
+# helloMyFriends
 
-  
-<br>
-
-<p align="center">
-  <a href="https://github.com/ArnoVD97" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArnoVD97&title_color=333&text_color=777" alt="ArnoVD97's Stats" >
-  </a>
-</p>
-
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ArnoVD97&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoVD97&theme=dark&layout=compact)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=8895E4&center=true&vCenter=true&multiline=true&width=490&lines=%E6%88%91%E5%B0%B1%E6%98%AF%E9%AB%98%E8%BE%BE)](https://git.io/typing-svg)
 ![](https://count.getloli.com/get/@:name?theme=asoul)
 
+- [My website](http://flymetothemoon.cn/) 🚀 *coming soon*
 
 # ***超级无敌且极度自负的iOS工程师，我真的十分需要你在crazy星期四VIVO50***
 > 📫 联系方式：邮箱-z784285777@outlook.com  QQ-784285777
-![image.png](https://raw.githubusercontent.com/ArnoVD97/PhotoBed/master/photo202308051055512.png)
+
+
+ <img align="left" alt="img" src="https://raw.githubusercontent.com/ArnoVD97/PhotoBed/master/photo202308051055512.png" />
