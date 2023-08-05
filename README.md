@@ -1,7 +1,7 @@
 # helloMyFriends
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ArnoVD97&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoVD97&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ArnoVD97&show_icons=true&theme=dark&count_private=true)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=8895E4&center=true&vCenter=true&multiline=true&width=490&lines=%E6%88%91%E5%B0%B1%E6%98%AF%E9%AB%98%E8%BE%BE)](https://git.io/typing-svg)
 ![](https://count.getloli.com/get/@:name?theme=asoul)
 
