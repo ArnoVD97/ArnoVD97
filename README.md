@@ -1,6 +1,7 @@
 HELLO
 ![](https://raw.githubusercontent.com/ArnoVD97/ArnoVD97/main/assets/github-contribution-grid-snake.svg)
-![](https://github.com/ArnoVD97/ArnoVD97/blob/main/assets/github-contribution-grid-snake.gif)
+![](https://count.getloli.com/get/@:name?theme=asoul)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%88%91%E5%B0%B1%E6%98%AF%E9%AB%98%E8%BE%BE)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   
