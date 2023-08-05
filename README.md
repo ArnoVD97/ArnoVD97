@@ -1,5 +1,6 @@
 HELLO
 ![](https://raw.githubusercontent.com/ArnoVD97/ArnoVD97/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/ArnoVD97/ArnoVD97/blob/main/assets/github-contribution-grid-snake.gif)
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   
